@@ -7,8 +7,8 @@ Bashful is an incredable library, but It has alot of overhead. I often need just
 Using gpp I can `#include "function_name.sh"` and I can compile a script that only contains the code it uses.    
 
 ## Install
-`curl -o bashful_gpp.tar.gz https://github.com/slugbyte/bashful-gpp/raw/master/bashful_gpp.tar.gz`  
-`tar -vxzf bashful_gpp.tar.gz`  
+Download and extraxt the bashful-gpp tarball 
+`curl -o bashful_gpp.tar.gz https://github.com/slugbyte/bashful-gpp/raw/master/bashful_gpp.tar.gz && tar -vxzf bashful_gpp.tar.gz`  
 
 Bashful
 =======
