@@ -8,7 +8,11 @@ Using gpp I can `#include "function_name.sh"` and I can compile a script that on
 
 ## Install
 Download and extraxt the bashful-gpp tarball   
-`curl -o bashful_gpp.tar.gz https://github.com/slugbyte/bashful-gpp/raw/master/bashful_gpp.tar.gz && tar -vxzf bashful_gpp.tar.gz`  
+``` sh
+curl -o bashful_gpp.tar.gz https://github.com/slugbyte/bashful-gpp/raw/master/bashful_gpp.tar.gz
+tar -vxzf bashful_gpp.tar.gz
+```
+
 
 Bashful
 =======
